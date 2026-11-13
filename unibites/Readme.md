@@ -113,7 +113,7 @@ To develop a convenient digital food ordering and campus delivery solution that 
 
 **Md. Omer Faruq**
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub: [Your GitHub Profile](https://github.com/mdOmerfaruq)
 
 ---
 
